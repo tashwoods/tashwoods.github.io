@@ -1,6 +1,6 @@
 title: Clearing the Lens
 author:
-  name: tashwoods
+  name: Natasha Woods
   email: tashwoods@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A place to store my thoughts and analyses about the world and sometimes beyond that.
@@ -14,10 +14,6 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter_username: tashwoods
-    github_username: tashwoods
-    instagram: clearingthelens
-    linkedin: natasha-l-woods
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
