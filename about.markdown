@@ -9,6 +9,8 @@ I like to think, explore nature, and create.
 
 [LinkedIn](https://www.linkedin.com/in/natasha-woods-b8631527/)
 
+[Resume]({{site.url}}/data/Natasha_Woods_Resume.pdf)
+
 [Occassional Thoughts](https://twitter.com/tashwoods)
 
 [Art](https://www.instagram.com/clearingthelens/)
